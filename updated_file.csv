@@ -1,0 +1,9 @@
+Summary,Description,Issue key,Category,resolution
+Nach asked again - Master User ID #16571622,"Please check, the below case showing an error while doing Nach,.You cannot submit the application since E-NACH not satisfied",https://payufin.atlassian.net/browse/PRSU-31562,Nach asked again,"Unable to identify the actual reason. So to unblock the users, we have updated the tracker"
+Nach asked again - Master User ID #16571622,"Please check, the below case showing an error while doing Nach,.You cannot submit the application since E-NACH not satisfied",https://payufin.atlassian.net/browse/PRSU-37123,Nach asked again,"Unable to identify the actual reason. So to unblock the users, we have updated the tracker"
+Master ID - 26847316 / Disbursed case is appearing again in the pre-approval stage,"This case has already been disbursed but has returned to the pre-approval bucket. Kindly check and let me know what we can do in this scenario.
+  Lead ID - 4691542",https://payufin.atlassian.net/browse/PRSU-37291,Incorrect Application Status,Resolution not found
+Application stuck at LPS step #20732264,"Hi Team, 
+   Master Id: 20732264
+   Please find attached error screenshot agent user application stuck at LPS step getting error something went wrong",https://payufin.atlassian.net/browse/PRSU-35444,Application unable to proceed,The application was in pending status but loan amount was credited to user. Updated the application status to approved.
+Master ID - 26110618 / Unable to approve application,Master Id: 26110618 We are unable to approve the captioned ID. As per the kiosk the policy recommended required references for this case is '0' but while we are approving the application a pop-up error is seen stating ' User references are not verified' Attached below is the screenshot of the error.,https://payufin.atlassian.net/browse/PRSU-35859,category_references,Resolution not found
